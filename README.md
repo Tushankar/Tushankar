@@ -5,6 +5,5 @@
 - 📫 How to reach me ...Through linkedin
 
 <!---
-Tushankar/Tushankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I am a second-year B.Tech student at UEM Kolkata, currently focusing on learning web development.Additionally, i have  successfully completed coursework in C, C++ , and data structures which provides me a strong programming foundation.
 --->
